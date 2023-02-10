@@ -1,6 +1,6 @@
 # Tema Sesiunea 20-21
 
-Pornind de la repository, adaugati functionalitatea de dropdown. Adica atunci cand se da click pe hamburger icon, menius sa fie ascuns sau afisat.
+Pornind de la repository, adaugati functionalitatea de dropdown. Adica atunci cand se da click pe hamburger icon, meniul sa fie ascuns sau afisat.
 
 **Nu este nevoie sa modificati HTML-ul sau CSS-ul**. Veti modifica HTML-ul doar pentru a lega fisierul de JavaScript la aplicatie  
 
